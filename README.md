@@ -1,7 +1,8 @@
 # ledgerAPI
 RESTful Ledger API 
 
-Clone the repo to your local machine
+**Clone the repo to your local machine**
+`git clone https://github.com/Varuni-Punchihewa/ledgerAPI.git`
 
 **Install all the node dependencies** <br>
 `npm install`
